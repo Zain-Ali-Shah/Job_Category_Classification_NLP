@@ -1,0 +1,33 @@
+.footer {
+	background-color: black;
+	padding: 20px 0;
+	color: white;
+}
+
+.footer.container {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+.footer h5 {
+	font-weight: bold;
+	margin-top: 0;
+}
+
+.footer p {
+	margin-bottom: 20px;
+}
+
+.footer.copyright {
+	font-size: 14px;
+	color: #666;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.footer hr {
+	border: none;
+	border-top: 1px solid #ccc;
+	margin: 20px 0;
+}
